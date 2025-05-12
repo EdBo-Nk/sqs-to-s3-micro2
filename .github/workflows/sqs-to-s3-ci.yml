@@ -2,8 +2,6 @@ name: Build and Push sqs-to-s3-micro2 to ECR
 
 on:
   push:
-    paths:
-      - 'sqs-to-s3-micro2/**'
     branches:
       - main
 
