@@ -25,3 +25,5 @@ For simplicity during testing, you might start with Admin access and then dial d
 - AWS S3, SQS, SSM Parameter Store, ECR, ECS
 - Docker container
 - CI/CD via GitHub Actions workflow
+
+For the main repo and instructions, please refer to: [https://github.com/EdBo-Nk/terraform]
